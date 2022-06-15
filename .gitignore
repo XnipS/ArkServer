@@ -19,6 +19,7 @@ ShooterGame/*
 /ShooterGame/Saved/Config/*
 !/ShooterGame/Saved/Config/LinuxServer
 #Universal
+push.sh
 Engine/
 steamapps/
 *.dll
