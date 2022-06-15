@@ -1,2 +1,2 @@
 #!/bin/bash
-./ShooterGameServer Fjordur?listen?SessionName=ArkForTheBoys?ServerPassword=xd -server -log
+./ShooterGameServer Fjordur?listen -server -log
